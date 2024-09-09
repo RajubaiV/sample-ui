@@ -44,7 +44,7 @@ section {
 
 :host {
     display: block;
-    /* background-image: url('/assets/IceGate.jpg'); */
+    background-image: url('/assets/IceGate.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
